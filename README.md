@@ -46,6 +46,6 @@ This project aims to reduce high return rates in the apparel section of e-commer
 ## Contributors
 This project was developed collaboratively by:
 - Vishal D (https://github.com/Zues0613)
-- Ashwin T ()
+- Ashwin T (https://github.com/Ashwin-Thulasiraman)
 - Abimanyu S (https://github.com/abimanyu2515)
 - Dicson Isaiac B (https://github.com/Dicson681)
